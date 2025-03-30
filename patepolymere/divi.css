@@ -12881,12 +12881,6 @@ header i.fab.fa-instagram {
 
     }
 
-    div#et-boc span.mobile_menu_bar {
-        position: absolute !important;
-        top: -4px;
-        RIGHT: -145px;
-    }
-
     div#et-boc header .et_pb_menu_0_tb_header .mobile_nav .mobile_menu_bar:before {
         color: #fff !important;
         padding-right: 0px;
