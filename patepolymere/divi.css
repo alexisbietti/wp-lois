@@ -1773,8 +1773,6 @@ a.woocommerce-review-link {
 
 .page-id-316 .woocommerce a.remove,
 .page-id-39 .woocommerce a.remove {
-    /*width: 12px;
-  height: 13px;*/
     font-family: Nunito;
     font-size: 27px;
     font-weight: 300;
@@ -8234,8 +8232,6 @@ a.woocommerce-review-link {
 
 .page-id-316 .woocommerce a.remove,
 .page-id-39 .woocommerce a.remove {
-    /*width: 12px;
-  height: 13px;*/
     font-family: Nunito;
     font-size: 27px;
     font-weight: 300;
@@ -14953,8 +14949,6 @@ a.woocommerce-review-link {
 
 .page-id-316 .woocommerce a.remove,
 .page-id-39 .woocommerce a.remove {
-    /*width: 12px;
-  height: 13px;*/
     font-family: Nunito;
     font-size: 27px;
     font-weight: 300;
@@ -21342,8 +21336,6 @@ a.woocommerce-review-link {
 
 .page-id-316 .woocommerce a.remove,
 .page-id-39 .woocommerce a.remove {
-    /*width: 12px;
-  height: 13px;*/
     font-family: Nunito;
     font-size: 27px;
     font-weight: 300;
@@ -33188,12 +33180,9 @@ span.ld-expand-button.ld-button-alternate.ld-expanded {
 }
 
 .learndash-wrapper .ld-progress .ld-progress-heading .ld-progress-stats .ld-progress-percentage {
-    /*font-family: CaviarDreams!important*/
-    ;
 }
 
 .ld-progress-steps {
-    /*  font-family: CaviarDreams!important;*/
     font-weight: 600;
 }
 
@@ -34491,19 +34480,12 @@ div#sswcmaat-Moyens\%20de\%20paiement .button {
         top: 0;
         position: absolute;
         -webkit-transition: opacity var(--d-o, 0.2s), -webkit-transform var(--d-t, 0.3s) var(--d-t-e, ease);
-        */ transition: opacity var(--d-o, 0.2s), -webkit-transform var(--d-t, 0.3s) var(--d-t-e, ease);
-        */ transition: transform var(--d-t, 0.3s) var(--d-t-e, ease), opacity var(--d-o, 0.2s);
-        */ transition: transform var(--d-t, 0.3s) var(--d-t-e, ease), opacity var(--d-o, 0.2s), -webkit-transform var(--d-t, 0.3s) var(--d-t-e, ease);
         margin: 0 auto;
         left: 0;
         right: 0;
     }
 
     #shipping_method input[type='radio']:checked {
-        /* --b: #; */
-        /* --d-o: .3s; */
-        /* --d-t: .6s; */
-        /* --d-t-e: cubic-bezier(.2, .85, .32, 1.2); */
         background: #000000 !important;
         border: #000000;
     }
@@ -34631,19 +34613,12 @@ div#sswcmaat-Moyens\%20de\%20paiement .button {
         top: 0;
         position: absolute;
         -webkit-transition: opacity var(--d-o, 0.2s), -webkit-transform var(--d-t, 0.3s) var(--d-t-e, ease);
-        */ transition: opacity var(--d-o, 0.2s), -webkit-transform var(--d-t, 0.3s) var(--d-t-e, ease);
-        */ transition: transform var(--d-t, 0.3s) var(--d-t-e, ease), opacity var(--d-o, 0.2s);
-        */ transition: transform var(--d-t, 0.3s) var(--d-t-e, ease), opacity var(--d-o, 0.2s), -webkit-transform var(--d-t, 0.3s) var(--d-t-e, ease);
         margin: 0 auto;
         left: 0;
         right: 0;
     }
 
     #payment input[type='radio']:checked {
-        /* --b: #; */
-        /* --d-o: .3s; */
-        /* --d-t: .6s; */
-        /* --d-t-e: cubic-bezier(.2, .85, .32, 1.2); */
         background: #CCC8C8 !important;
         border: #CCC8C8;
     }
